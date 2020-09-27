@@ -1,0 +1,51 @@
+/* *{
+    margin: 0%;
+}
+
+
+.wihi{
+    width: 200px;
+    height: 200px;
+}
+.green{
+    float: left;
+    background-color: green;
+} 
+.blue{
+    float: left;
+
+    background-color: blue;
+}
+.red{
+    float: left;
+    background-color: red;
+}
+.clr{
+    clear: both;
+}
+.c{
+margin-top: 100px;
+margin-left: 20px;
+margin-right: 50px;
+} */
+
+.container{
+    width: 100%;
+    height: 250px;
+    /* background-color: gray; */
+    margin-top: 100px;
+}
+.item{
+    float: left;
+    margin-left: 9%;
+    width: 20%;
+    height: 100%;
+    /* background-color: darkmagenta; */
+}
+.img{
+    margin-top: 20%;
+    margin-left: 40%;
+}
+.itemcenter{
+    text-align: center;
+}
